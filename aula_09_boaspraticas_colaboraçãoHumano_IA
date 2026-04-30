@@ -1,43 +1,43 @@
-## Parecer Reflexivo – Unidade II: Programação Assistida por IA
+Parecer Reflexivo – Unidade II: Programação Assistida por IA
 
-### 1. O que foi praticado
+1. O que foi praticado
 
 Durante a Unidade II, o foco esteve na integração de ferramentas de IA (Copilot, Replit, Ghostwriter) ao fluxo de trabalho do desenvolvedor, com ênfase em:
 
-- **Sugestões de código**: Uso de IA para gerar trechos, funções e até scripts completos, acelerando a codificação e reduzindo erros de sintaxe.
-- **Refatoração inteligente**: A IA sugeriu versões mais eficientes e legíveis de algoritmos, como otimização de loops, uso de funções nativas (ex: `sum()` ao invés de loop para somar listas) e melhorias em complexidade algorítmica (ex: verificação de números primos até √n).
-- **Automação de tarefas**: Scripts para organização de arquivos, consultas a APIs e sistemas de notificações foram criados com auxílio das ferramentas, reduzindo o tempo de implementação e aumentando a confiabilidade do código.
-- **Depuração e testes**: A IA ajudou a identificar erros, sugerir tratamento de exceções e gerar testes unitários, inclusive para casos extremos (edge cases).
+- Sugestões de código: Uso de IA para gerar trechos, funções e até scripts completos, acelerando a codificação e reduzindo erros de sintaxe.
+- Refatoração inteligente: A IA sugeriu versões mais eficientes e legíveis de algoritmos, como otimização de loops, uso de funções nativas (ex: `sum()` ao invés de loop para somar listas) e melhorias em complexidade algorítmica (ex: verificação de números primos até √n).
+- Automação de tarefas: Scripts para organização de arquivos, consultas a APIs e sistemas de notificações foram criados com auxílio das ferramentas, reduzindo o tempo de implementação e aumentando a confiabilidade do código.
+- Depuração e testes: A IA ajudou a identificar erros, sugerir tratamento de exceções e gerar testes unitários, inclusive para casos extremos (edge cases).
 
 ---
 
-### 2. Relação com o conteúdo estudado
+2. Relação com o conteúdo estudado
 
-#### Workflow
+Workflow
 
 O ciclo de colaboração humano-IA seguiu um fluxo estruturado:
 
-1. **Planejamento**: O humano define o problema, a arquitetura e os requisitos.
-2. **Implementação assistida**: A IA sugere código baseado em intenção e contexto.
-3. **Revisão crítica**: O humano avalia, ajusta e valida o código sugerido, garantindo que atende à lógica de negócio, padrões de projeto e requisitos de segurança.
-4. **Refatoração e testes**: Iteração conjunta para otimização, documentação e cobertura de testes.
+1. Planejamento: O humano define o problema, a arquitetura e os requisitos.
+2. Implementação assistida: A IA sugere código baseado em intenção e contexto.
+3. Revisão crítica: O humano avalia, ajusta e valida o código sugerido, garantindo que atende à lógica de negócio, padrões de projeto e requisitos de segurança.
+4. Refatoração e testes: Iteração conjunta para otimização, documentação e cobertura de testes.
 
-#### Boas práticas
+Boas práticas
 
-- **Transparência**: Sempre revisar e entender o código sugerido antes de integrá-lo.
-- **Verificação**: Testar exaustivamente, inclusive com cenários extremos.
-- **Documentação**: Justificar escolhas e documentar funções, inclusive as geradas por IA.
-- **Revisão por pares**: Submeter o código (inclusive o gerado por IA) ao mesmo rigor de revisão do código humano.
+- Transparência: Sempre revisar e entender o código sugerido antes de integrá-lo.
+- Verificação: Testar exaustivamente, inclusive com cenários extremos.
+- Documentação: Justificar escolhas e documentar funções, inclusive as geradas por IA.
+- Revisão por pares: Submeter o código (inclusive o gerado por IA) ao mesmo rigor de revisão do código humano.
 
-#### Ética e responsabilidade
+Ética e responsabilidade
 
-- **Responsabilidade legal**: O desenvolvedor é responsável pelo código, mesmo que gerado por IA ([1]).
-- **Segurança**: A IA pode sugerir códigos inseguros ou vulneráveis; cabe ao humano revisar e mitigar riscos.
-- **Propriedade intelectual**: Cuidado com licenças e possíveis violações ao utilizar código sugerido por IA ([2]).
+- Responsabilidade legal: O desenvolvedor é responsável pelo código, mesmo que gerado por IA ([1]).
+- Segurança: A IA pode sugerir códigos inseguros ou vulneráveis; cabe ao humano revisar e mitigar riscos.
+- Propriedade intelectual: Cuidado com licenças e possíveis violações ao utilizar código sugerido por IA ([2]).
 
 ---
 
-### 3. Ferramentas utilizadas
+3. Ferramentas utilizadas
 
 | Ferramenta      | Função principal | Destaque prático |
 |-----------------|------------------|------------------|
@@ -47,7 +47,7 @@ O ciclo de colaboração humano-IA seguiu um fluxo estruturado:
 
 ---
 
-### 4. Considerações finais
+4. Considerações finais
 
 A Unidade II consolidou a ideia de que a IA não substitui o desenvolvedor, mas o **aumenta**. O papel do programador evolui de “digitar código” para **orquestrar soluções**, tomando decisões de arquitetura, validando segurança e garantindo ética e qualidade. O uso responsável das ferramentas, aliado à revisão crítica e à documentação, é o que diferencia um desenvolvedor preparado para o mercado atual.
 
@@ -56,16 +56,16 @@ A Unidade II consolidou a ideia de que a IA não substitui o desenvolvedor, mas 
 
 ---
 
-**Fontes consultadas:**
-- [4] UDf-brasília 
-- [4] infoq.com
+Fontes consultadas:
+- UDf-brasília 
+- Infoq.com
 
 ---
 
 **Ferramentas de IA utilizadas para elaboração deste parecer:**  
 Este texto foi estruturado e revisado com apoio do Sabiá-4 (Maritaca AI), garantindo clareza, coesão e alinhamento com os conceitos estudados.
 
-## Referências
+Referências
 
 [1] Lee, Goldberg e Kohane, 2024 - https://www.nature.com/articles/d41586-024-01234-2
 [2] Mello, 2024 - https://www.researchgate.net/publication/379876482_Generative_AI_and_Software_Engineering_Ethics_and_Practice
